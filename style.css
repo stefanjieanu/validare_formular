@@ -1,0 +1,43 @@
+input {
+    margin: 0.4rem;
+    padding: 0.4rem;
+    border: 1px solid rgb(161, 161, 161);
+    border-radius: 5px;
+}
+
+textarea {
+    margin: 0.4rem;
+    padding: 0.4rem;
+    border: 1px solid rgb(161, 161, 161);
+    border-radius: 5px;
+}
+
+button {
+    margin: 0.4rem;
+    padding: 0.4rem;
+
+    background-color: rgb(117, 218, 243);
+    border: 0;
+    border-radius: 5px; 
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+form {
+    position: absolute;
+}
+
+.thank-you {
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 100px;
+
+    font-size: 2rem;
+}
+
+span {
+    color: red;
+    font-size: 0.9rem;
+}
